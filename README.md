@@ -2,7 +2,7 @@
 
   # Project Title
 
-  ### Built With
+  ### Built Using
   
   [![Flask][flask-shield]][flask-url]
   [![ScikitImage][scikit-image-shield]][scikit-image-url]
@@ -21,6 +21,7 @@ About the Project
 ## Getting Started
 
 Getting Started
+This Project is Built With
 <div align="right">
 
 ([back to top][readme-top])
